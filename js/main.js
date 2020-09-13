@@ -287,11 +287,11 @@
 
       // event.preventDefault();
 
-      $('html,body').animate({
-        scrollTop: $('.goto-here2').offset().top
-      }, 500, 'easeInOutExpo');
-
-      return false;
+      // $('html,body').animate({
+      //   scrollTop: $('.goto-here2').offset().top
+      // }, 500, 'easeInOutExpo');
+      //
+      // return false;
     });
 	};
 
